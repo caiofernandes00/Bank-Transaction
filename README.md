@@ -43,3 +43,6 @@ make query
 ```
 
 Files under `app/internal/db/sqlc` should be generated (DO NOT EDIT), they are like CRUD automatically generated from .sql files.
+
+### Credits
+Project made with the guide of [TECH SCHOOL](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE&ab_channel=TECHSCHOOL) tutorial.
